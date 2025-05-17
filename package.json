@@ -1,0 +1,16 @@
+{
+    "name": "optisecure_poc",
+    "version": "1.0.0",
+    "description": "Proof-of-concept for OptiSecureSDK",
+    "main": "optisecure_cli.js",
+    "scripts": {
+      "start": "node optisecure_cli.js"
+    },
+    "dependencies": {
+      "commander": "^9.4.1",
+      "esprima": "^4.0.1"
+    },
+    "bin": {
+      "optisecure": "./optisecure_cli.js"
+    }
+  }

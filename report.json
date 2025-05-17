@@ -1,0 +1,21 @@
+{
+  "total_functions": 3,
+  "unused_functions": 2,
+  "total_lines": 9,
+  "removable_lines": 6,
+  "size_reduction_percent": 66.66666666666666,
+  "details": [
+    {
+      "name": "unusedFunction",
+      "line_start": 5,
+      "line_end": 7,
+      "call_count": 0
+    },
+    {
+      "name": "anotherUnusedFunction",
+      "line_start": 9,
+      "line_end": 11,
+      "call_count": 0
+    }
+  ]
+}
